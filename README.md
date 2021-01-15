@@ -13,8 +13,8 @@ I'm a mexican Software Developer and mathematician :rocket:. My main development
 
 ## My profile
 
-- :heavy_check_mark: [LinkedIn]:https://www.linkedin.com/in/francisco-gonz%C3%A1lez-48030593/
+- :heavy_check_mark: [LinkedIn]: https://www.linkedin.com/in/francisco-gonz%C3%A1lez-48030593/
 
 ## Follow me
 
-- :link: Twitter [@Janobourian]:https://twitter.com/JanoBourian
+- :link: Twitter [@Janobourian]: https://twitter.com/JanoBourian
