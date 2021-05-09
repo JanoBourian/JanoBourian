@@ -7,7 +7,7 @@
 I'm a mexican Software Developer and mathematician :rocket:. My main developments are in Python and Django :snake:, but also in Javascript, Java and some Frontend Technologies :dolphin:.
 
 - :hearts: Python, Django and Flask.
-- :office: I'm a freelancer, currently.
+- :office: I'm working in Softtek.
 - :sunglasses: Math Lover.
 - :star: Solver.
 
