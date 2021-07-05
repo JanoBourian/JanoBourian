@@ -4,7 +4,7 @@
 
 ## About me
 
-I'm a mexican Software Developer and mathematician :rocket:. My main developments are in Python and Django :snake:, but also in Javascript, Java and some Frontend Technologies :dolphin:.
+I'm a mexican Software Developer and mathematician :rocket:. My main developments are in Python with Flask and Django :snake:, but also in Javascript, Java, C# and some Frontend Technologies :dolphin:.
 
 - :hearts: Python, Django and Flask.
 - :office: I'm working in Softtek.
