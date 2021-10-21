@@ -10,6 +10,7 @@ I'm a mexican Software Developer and mathematician :rocket:. My main development
 - :office: I'm working in #Konfío.
 - :sunglasses: Math Lover.
 - :star: Solver.
+- :brain: Learn Dart/Flutter.
 
 ## My profile
 
