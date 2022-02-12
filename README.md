@@ -6,13 +6,13 @@
 
 I'm a mexican Software Developer and mathematician :rocket:. My main developments are in Python with Flask and Django :snake:, but also in Javascript, Java, C# and some Frontend Technologies :dolphin:.
 
-- :hearts: Python, Django and Flask.
+- :hearts: Python, Flask and Django.
 - ✨ APIs promoter.
-- :unicorn: Think in architecture.
+- :unicorn: Think in architecture and tests.
 - :office: I'm working in #CorusConsulting.
 - :sunglasses: Math Lover.
 - :star: Solver.
-- :brain: Learn Dart/Flutter.
+- :brain: Learn Devops.
 
 ## My profile
 
