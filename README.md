@@ -8,7 +8,7 @@ I'm a mexican Software Developer and mathematician :rocket:. My main development
 
 - :hearts: Python, Flask and Django.
 - ✨ APIs promoter.
-- :unicorn: Think in architecture and tests.
+- :unicorn: Thinking in architecture and testing.
 - :office: I'm working in #CorusConsulting.
 - :sunglasses: Math Lover.
 - :star: Solver.
