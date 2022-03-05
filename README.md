@@ -12,7 +12,7 @@ I'm a mexican Software Developer and mathematician :rocket:. My main development
 - :office: I'm working in #CorusConsulting.
 - :sunglasses: Math Lover.
 - :star: Solver.
-- :brain: Learn Devops.
+- :brain: Learning Devops.
 
 ## My profile
 
