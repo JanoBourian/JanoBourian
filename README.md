@@ -1,14 +1,16 @@
-### Hi there 👋
+### Hello 👋
 
 # **I'm Francisco González** or @Janobourian
 
 ## About me
 
-I'm a mexican Software Developer and mathematician :rocket:. My main developments are in Python with Flask and Django :snake:, but also in Javascript, Java, C# and some Frontend Technologies :dolphin:.
+I am a Mexican Software Developer and Mathematician :rocket:. I am a Python Developer with Flask and FastAPI :snake:, but also I can development in Frontend Technologies like a Javascript (React-Vue-Angular), CSS, HTML or other languages like Java, C#, C, C++. :dolphin:. 
 
-- :hearts: Python, Flask and Django.
+I think that a good programmer must have soft skills like a comunication and teamwork as well as good programming logic and abstraction. 
+
+- :hearts: Python, Flask and FastAPI.
 - ✨ APIs promoter.
-- :unicorn: Thinking in architecture and testing.
+- :unicorn: I am always thinking in architecture and testing.
 - :office: I'm working in #CorusConsulting.
 - :sunglasses: Math Lover.
 - :star: Solver.
@@ -22,5 +24,5 @@ I'm a mexican Software Developer and mathematician :rocket:. My main development
 
 - :link: Twitter [@Janobourian][twitter]
 
-[lkn]: https://www.linkedin.com/in/francisco-gonz%C3%A1lez-48030593/
+[lkn]: https://www.linkedin.com/in/francisco-gonz%C3%A1lez-48030593
 [twitter]: https://twitter.com/JanoBourian
