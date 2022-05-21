@@ -1,6 +1,6 @@
 ### Hello 👋
 
-# **I'm Francisco González** or @Janobourian
+# **I am Francisco González** or @Janobourian
 
 ## About me
 
