@@ -20,9 +20,14 @@ I think that a good programmer must have soft skills like a comunication and tea
 
 - :heavy_check_mark: [LinkedIn][lkn]
 
+## My PyPI projects
+
+- 🌻 [PyPI][pypi]
+
 ## Follow me
 
-- :link: Twitter [@Janobourian][twitter]
+- 🔗: Twitter [@Janobourian][twitter]
 
+[pypi]: https://pypi.org/user/janobourian/
 [lkn]: https://www.linkedin.com/in/francisco-gonz%C3%A1lez-48030593
 [twitter]: https://twitter.com/JanoBourian
