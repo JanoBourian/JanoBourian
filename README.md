@@ -11,7 +11,7 @@ I think that a good programmer must have soft skills like a comunication and tea
 - :hearts: Python, Flask and FastAPI.
 - ✨ APIs promoter.
 - :unicorn: I am always thinking in architecture and testing.
-- :office: I'm working in #CorusConsulting.
+- :office: I'm working in #CITI.
 - :sunglasses: Math Lover.
 - :star: Solver.
 - :brain: Learning Devops, Scrum and Agile.
