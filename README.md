@@ -14,7 +14,7 @@ I think that a good programmer must have soft skills like a comunication and tea
 - :office: I'm working in #Vector.
 - :sunglasses: Math Lover.
 - :star: Solver.
-- :brain: Learning Devops, Scrum and Agile.
+- :brain: Learning AWS.
 
 ## My profile
 
